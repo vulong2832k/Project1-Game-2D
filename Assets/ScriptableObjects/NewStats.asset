@@ -13,10 +13,16 @@ MonoBehaviour:
   m_Name: NewStats
   m_EditorClassIdentifier: 
   maxHealth: 100
-  damage: 1
+  damage: 45
+  specialSkillDamage: 20
   moveSpeed: 5
   initializeAmmo: 100
-  currentAmmo: 49821
-  maxAmmo: 9999
-  defaultMoveSpeed: 5
+  currentAmmo: 85
+  fireRate: 0.74500024
+  maxAmmo: 825
+  damageLevel: 9
+  maxHealthLevel: 1
+  moveSpeedLevel: 1
+  fireRateLevel: 52
+  maxAmmoLevel: 8
   rotationSpeed: 150
